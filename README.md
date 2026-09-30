@@ -85,19 +85,22 @@ Python • TensorFlow/Keras • EfficientNet-B0 • Computer Vision • Scikit-l
 
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-jahangir-ai&show_icons=true&theme=default)
 
-## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-jahangir-ai&layout=compact&theme=default)
-## 📊 GitHub Stats
-
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-jahangir-ai&show_icons=true&theme=default)
-## 📊 GitHub Stats
-
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-jahangir-ai&show_icons=true&theme=default)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-jahangir-ai&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-jahangirai&layout=compact&theme=default)
+## 🛠️ Technologies & Tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ⭐ Thanks for visiting my profile!
