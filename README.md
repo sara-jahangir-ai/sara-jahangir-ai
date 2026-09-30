@@ -81,5 +81,8 @@ Python • TensorFlow/Keras • EfficientNet-B0 • Computer Vision • Scikit-l
 📧 Email: *your email here*
 
 ---
+## 📊 GitHub Stats
+
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-jahangir-ai&show_icons=true&theme=default)
 
 ⭐ Thanks for visiting my profile!
