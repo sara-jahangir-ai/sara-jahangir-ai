@@ -85,4 +85,19 @@ Python • TensorFlow/Keras • EfficientNet-B0 • Computer Vision • Scikit-l
 
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-jahangir-ai&show_icons=true&theme=default)
 
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-jahangir-ai&layout=compact&theme=default)
+## 📊 GitHub Stats
+
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-jahangir-ai&show_icons=true&theme=default)
+## 📊 GitHub Stats
+
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-jahangir-ai&show_icons=true&theme=default)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-jahangir-ai&layout=compact&theme=default)
+
+
 ⭐ Thanks for visiting my profile!
