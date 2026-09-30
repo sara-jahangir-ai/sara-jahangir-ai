@@ -108,5 +108,14 @@ Python • TensorFlow/Keras • EfficientNet-B0 • Computer Vision • Scikit-l
 
 [![GitHub](https://img.shields.io/badge/GitHub-sara--jahangir--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sara-jahangir-ai)
 
+## 📚 Currently Learning
+
+- Python and C++ programming
+- Machine Learning and Deep Learning
+- Computer Vision
+- Robotics fundamentals
+- Intelligent Systems
+- ROS 2
+
 
 ⭐ Thanks for visiting my profile!
