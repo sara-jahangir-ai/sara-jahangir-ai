@@ -84,12 +84,12 @@ Python • TensorFlow/Keras • EfficientNet-B0 • Computer Vision • Scikit-l
 ## 📊 GitHub Stats
 
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-jahangir-ai&show_icons=true&theme=default)
-
-
-
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-jahangirai&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-jahangir-ai&layout=compact&theme=default)
+
+
+
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -102,6 +102,10 @@ Python • TensorFlow/Keras • EfficientNet-B0 • Computer Vision • Scikit-l
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sara-jahangir-ai&theme=flat&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sara-jahangir-ai&theme=flat&no-frame=true&margin-w=10)
 
 ⭐ Thanks for visiting my profile!
