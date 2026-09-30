@@ -117,5 +117,27 @@ Python • TensorFlow/Keras • EfficientNet-B0 • Computer Vision • Scikit-l
 - Intelligent Systems
 - ROS 2
 
+## 🌿 Featured Project
+
+### 🔬 PhytoScan AI
+
+**AI-Powered Medicinal Plant Recognition System**
+
+A computer vision project developed during my BS Artificial Intelligence coursework at NUML.
+
+**What I worked on:**
+- Image classification using EfficientNet-B0
+- Model training and evaluation
+- Computer Vision
+- Statistical analysis
+- Streamlit web application
+- Plant information knowledge base
+
+**Technologies:**
+
+`Python` `TensorFlow` `Keras` `EfficientNet-B0` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
+
+🔗 **[View PhytoScan AI on GitHub](https://github.com/sara-jahangir-ai/PhytoScan-AI)**
+
 
 ⭐ Thanks for visiting my profile!
