@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm Sara Jahangir 👋
 
-<!--
-**sara-jahangir-ai/sara-jahangir-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Artificial Intelligence Student at NUML, Islamabad**
 
-Here are some ideas to get you started:
+🤖 Interested in **Artificial Intelligence, Computer Vision, Robotics & Intelligent Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently building my skills in AI and exploring the path toward intelligent autonomous systems.
+
+---
+
+## 🧠 About Me
+
+I am a BS Artificial Intelligence student at the National University of Modern Languages (NUML), Islamabad.
+
+My interests include:
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Robotics
+- Intelligent Systems
+- Autonomous Systems
+
+I enjoy turning AI concepts into practical projects and continuously building my technical foundation.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+`Python` `C++`
+
+**AI & Machine Learning**
+
+`TensorFlow` `Scikit-learn` `Deep Learning` `Artificial Neural Networks`
+
+**Computer Vision**
+
+`Computer Vision` `Image Classification`
+
+**Data & Development**
+
+`NumPy` `Pandas` `Streamlit` `Git` `GitHub`
+
+---
+
+## 🌿 Featured Project
+
+### PhytoScan AI
+
+An AI-powered medicinal plant recognition system developed during my BS Artificial Intelligence coursework.
+
+**Technologies:**  
+Python • TensorFlow/Keras • EfficientNet-B0 • Computer Vision • Scikit-learn • Pandas • NumPy • Streamlit
+
+🔗 [View Project](https://github.com/sara-jahangir-ai/PhytoScan-AI)
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning & Deep Learning
+- Computer Vision
+- C++
+- Robotics Fundamentals
+- Intelligent Systems
+- Autonomous Robotics
+
+---
+
+## 🎯 Future Focus
+
+**AI → Computer Vision → Robotics → Intelligent Autonomous Systems**
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: *your email here*
+
+---
+
+⭐ Thanks for visiting my profile!
