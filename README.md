@@ -102,10 +102,11 @@ Python • TensorFlow/Keras • EfficientNet-B0 • Computer Vision • Scikit-l
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+## 🔗 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sara%20Jahangir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-jahangir-188031440/)
 
-## 🏆 GitHub Trophies
+[![GitHub](https://img.shields.io/badge/GitHub-sara--jahangir--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sara-jahangir-ai)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sara-jahangir-ai&theme=flat&no-frame=true&margin-w=10)
 
 ⭐ Thanks for visiting my profile!
